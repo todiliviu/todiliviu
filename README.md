@@ -1,5 +1,3 @@
-<img src="./images/sticker.png" width="10%" align="right" />
-
 # Hello! My name is Liviu
 
 **Information Technology Student (DAW)** 💻
