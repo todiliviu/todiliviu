@@ -1,14 +1,31 @@
-Hola 👋, soy Liviu.
-Soy estudiante de informática con aprediendo desarrollo de aplicaciones web, tanto frontend como backend. Actualmente, mi interés se centra en la ciberseguridad y busco combinar mis habilidades para desarrollar soluciones seguras y robustas. Estoy comprometido con el aprendizaje continuo y la colaboración en proyectos desafiantes.</h3>
+# <img src="./images/sticker.png" width=10% align=right /> Hello Mi name is Liviu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=todiliviu&label=Profile%20views&color=0e75b6&style=flat" alt="todiliviu" /> </p>
+**Information Technology student DAW** 💻 
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://instagram.com/todiwild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todiwild" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/todiwild" target="blank"><img
-Lenguajes y
+I am a computer science student with experience in web application development, both frontend and backend. Currently, my interest focuses on cybersecurity, seeking to combine my skills to develop secure and robust solutions. I am committed to continuous learning and collaboration on challenging projects.
 
-herramientas:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" ancho="40" alto="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" ancho="40" alto="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" ancho="40" alto="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://reactnative.dev/" objetivo="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.SVG" alt="reactnative" ancho="40" alto="40"/> </a> </p>
+## Contact
+
+[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](todiliviu94@gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@todiwild8466)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/todiliviu)
+
+## ⚡ Most used technologies
+
+### 🚀 LenguajesComputer languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+### 📘 Others...
+![Linux](https://img.shields.io/badge/Linux-White?style=for-the-badge&logo=black&logoColor=White%20&labelColor=White%20)
+![KaliLinux] (https://img.shields.io/badge/Kali%20linux-black?style=for-the-badge&logoColor=blue)
+![Git] (https://img.shields.io/badge/GIT-orange?style=for-the-badge&logoColor=blue)
+![Wrap] (https://img.shields.io/badge/WRAP-blue?style=for-the-badge&logoColor=blue)
+![MySQL] (https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=black&logoColor=White%20&labelColor=White%20)
 
