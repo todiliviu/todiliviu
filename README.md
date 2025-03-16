@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  I am a computer science student learning programming languages for web application development, both frontend and backend. I am in my first year of studies.
+  I am a computer science student learning programming languages forWeb Application Development (DAW) . I am in my first year of studies.
 </p>
 
 
