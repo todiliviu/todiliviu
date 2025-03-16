@@ -4,6 +4,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Liviu Todirica </h1>
 
+
+<p align="center">
+  I am a computer science student learning programming languages for web application development, both frontend and backend. I am in my first year of studies.
+</p>
+
+
 ## Contact with me
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:todiliviu94@gmail.com)
@@ -27,9 +33,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![XML](https://img.shields.io/badge/XML-white?style=for-the-badge&logo=blue&logoColor=blue&labelColor=white)
 
-<p align="center">
-  I am a computer science student learning programming languages for web application development, both frontend and backend. I am in my first year of studies.
-</p>
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/>
