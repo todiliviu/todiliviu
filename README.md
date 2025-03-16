@@ -1,24 +1,29 @@
-# Hello! My name is Liviu
 
-**Information Technology Student (DAW)** 💻
+<p align="center"><img src="https://raw.githubusercontent.com/todiliviu/todiliviu/master/header.png"></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/todiliviu/todiliviu/master/Hi.gif" width="30px">, I am Kevin Patel </h1>
+<p align="center" width="150px"> I am a computer science student learning programming languages for web application development, both frontend and backend. I am in my first year of studies.</p>
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=todiliviu&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=todiliviu&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=todiliviu&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Liviu Todirica</h1>
 
-I am a computer science student with experience in web application development, both frontend and backend. Currently, my interest is focused on cybersecurity, seeking to combine my skills to develop secure and robust solutions. I am committed to continuous learning and collaboration on challenging projects.
-
-## Contact
+## Contact with me 
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:todiliviu94@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@todiwild8466)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/todiliviu)
 
-## ⚡ Most Used Technologies
+## ⚡ Learning programming languages
 
 ### 🚀 Computer Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📘 Others
 
@@ -26,3 +31,4 @@ I am a computer science student with experience in web application development, 
 ![Git](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Wrap](https://img.shields.io/badge/WRAP-blue?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+![XML] (https://img.shields.io/badge/XML-withe?style=for-the-badge&logo=blue&logoColor=Blue&labelColor=White%20)
