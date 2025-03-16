@@ -12,8 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/todiliviu)
 
 ## ⚡ Learning programming languages
-
-### 🚀 Computer Languages
+### Tech Stack
+### 🚀 🛠 &nbsp;Computer  Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
