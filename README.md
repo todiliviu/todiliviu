@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  I am a computer science student learning programming languages forWeb Application Development (DAW) . I am in my first year of studies.
+  I am a computer science student learning programming languages forWeb Application Development (DAW) . I am in my first year.
 </p>
 
 
