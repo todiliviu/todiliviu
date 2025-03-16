@@ -1,9 +1,8 @@
 <p align="center">
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 </p>
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/todiliviu/todiliviu/master/Hi.gif" width="30px">, I am Liviu Todirica </h1>
-</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Liviu Todirica </h1>
 
 ## Contact with me
 
