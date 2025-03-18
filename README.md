@@ -26,7 +26,7 @@
 
 ### 📘 Others
 
-![Linux](https://img.shields.io/badge/Linux-White?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Wrap](https://img.shields.io/badge/WRAP-blue?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
