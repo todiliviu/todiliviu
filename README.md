@@ -11,6 +11,7 @@
 
 ## Contact with me
 
+[![Linkedln](https://img.shields.io/badge/Linkedln-blue)](www.linkedin.com/in/liviu-todirica-84b198277)
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:todiliviu94@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@todiwild8466)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/todiliviu)
